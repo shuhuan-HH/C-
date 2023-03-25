@@ -1,0 +1,5 @@
+﻿  test.c
+C:\Code\3_7\test.c(13,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Code\3_7\test.c(14,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Code\3_7\test.c(6,9): warning C4305: “初始化”: 从“double”到“float”截断
+  3_7.vcxproj -> C:\Code\3_7\x64\Debug\3_7.exe
